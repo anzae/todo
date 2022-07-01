@@ -1,0 +1,11 @@
+[PT]
+Esse projeto é um exemplo de consumo de API utilizando a API: https://jsonplaceholder.typicode.com/.
+Como não há requisitos de implementação em relação ao design ou ao uso específico de nenhuma biblioteca ou framework, o projeto foi feito de maneira simples, usando html, css e javascript puro.
+Para executar, basta abrir a página index.html. Essa página mostra uma lista de usuários, e, ao clicar em um usuário, a aplicação redireciona para a página daquele usuário específico.
+É possível adicionar tarefas para cada usuário específico, por padrão elas não estão concluídas.
+
+[EN]
+This project is an example of API comsumption using the API: https://jsonplaceholder.typicode.com/.
+As there are no implementation requirements regarding the page design or the use of any specific library or framework, the project was implemented in a simple way, using html, css and pure javascript.
+To run the project, open the index.html page. This page shows a list of users and, when you click on a user, the app redirects to that specific user's page.
+It's possible to add new tasks for each user, by default they are not completed.
